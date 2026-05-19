@@ -1,8 +1,8 @@
-\# Community Water and Sanitation Access Analysis in Sub-Saharan Africa
+# Community Water and Sanitation Access Analysis in Sub-Saharan Africa
 
 
 
-\## Project Overview
+## Project Overview
 
 This project analyses access to water, sanitation, and hygiene (WASH) services 
 
@@ -22,53 +22,53 @@ by Clement Etim, a freelance data analyst specializing in social impact analytic
 
 
 
-\---
+---
 
 
 
-\## Key Findings
+## Key Findings
 
-\- 70.2% of the regional population has access to basic water — but only 28.9% 
+- 70.2% of the regional population has access to basic water — but only 28.9% 
 
 &#x20; have safely managed water
 
-\- Fewer than half the population (40.0%) has basic sanitation access
+- Fewer than half the population (40.0%) has basic sanitation access
 
-\- Only 27.6% have access to a basic handwashing facility, hygiene is the most 
+- Only 27.6% have access to a basic handwashing facility, hygiene is the most 
 
 &#x20; neglected WASH pillar
 
-\- The average rural-urban gap in basic water access is 28 percentage points
+- The average rural-urban gap in basic water access is 28 percentage points
 
-\- Conflict-affected states consistently record the lowest access rates across 
+- Conflict-affected states consistently record the lowest access rates across 
 
 &#x20; all three indicators
 
-\- Ethiopia reduced open defecation by 55.6 percentage points, the most dramatic 
+- Ethiopia reduced open defecation by 55.6 percentage points, the most dramatic 
 
 &#x20; improvement in the region
 
 
 
-\---
+---
 
 
 
-\## Tools Used
+## Tools Used
 
-\- Python (pandas, matplotlib, seaborn): data cleaning and EDA
+- Python (pandas, matplotlib, seaborn): data cleaning and EDA
 
-\- Power BI Desktop: interactive dashboard
+- Power BI Desktop: interactive dashboard
 
-\- WHO/UNICEF JMP 2025: primary dataset
-
-
-
-\---
+- WHO/UNICEF JMP 2025: primary dataset
 
 
 
-\## Repository Structure
+---
+
+
+
+## Repository Structure
 
 wash-africa-analysis/
 
@@ -86,27 +86,27 @@ wash-africa-analysis/
 
 
 
-\---
+---
 
 
 
-\## Project Workflow
+## Project Workflow
 
-1\. Data extraction and cleaning (Python)
+1. Data extraction and cleaning (Python)
 
-2\. Exploratory data analysis and visualisation (Python)
+2. Exploratory data analysis and visualisation (Python)
 
-3\. Interactive dashboard (Power BI)
+3. Interactive dashboard (Power BI)
 
-4\. Written analysis report
-
-
-
-\---
+4. Written analysis report
 
 
 
-\## Data Source
+---
+
+
+
+## Data Source
 
 WHO/UNICEF Joint Monitoring Programme (JMP) for Water Supply, 
 
@@ -116,13 +116,13 @@ https://washdata.org
 
 
 
-\---
+---
 
 
 
-\## Author
+## Author
 
-\*\*Clement Etim\*\*
+**Clement Etim**
 
 Freelance Data Analyst — NGO and Research Analytics
 
